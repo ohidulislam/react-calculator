@@ -1,4 +1,4 @@
-# This is a practice project. You can see the demo link here: https://calc-basic.netlify.app/
+## This is a practice project. You can see the demo link here: https://calc-basic.netlify.app/
 
 
 # Getting Started with Create React App
